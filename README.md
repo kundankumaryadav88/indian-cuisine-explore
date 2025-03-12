@@ -17,7 +17,7 @@ Ensure you have the following installed:
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/kundankumaryadav88/indian-cuisine-explore
    cd frontend
    ```
 2. Install dependencies:
