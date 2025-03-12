@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:8082/api/dishes";
+const BASE_URL = "https://indian-cuisine-explore.onrender.com/api/dishes";
 
 const dishesData = [];
 export async function getAllDishes(page = 1, limit = 10) {
